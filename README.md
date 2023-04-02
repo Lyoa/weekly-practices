@@ -1,10 +1,11 @@
-# DEEP LEARNING
+<h1 align="center">Deep Learning Python 🌱</h1>
 
-This file is compilation of my weekly practices for Python Deep Learning:
+### A compilation of my weekly practices for Python Deep Learning 📖
 
--Iterations
--Loops
--Sequence
--Built-in Structures
+- Iterations
+- Looping Statements
+- Sequence
+- Built-in Structures
+- Regular Expressions
 
 Authored by: Shaira de Leon
